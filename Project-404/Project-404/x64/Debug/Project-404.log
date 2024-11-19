@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\Project-404\Project-404\main.cpp(20,6): warning C4101: 'singleNumber': unreferenced local variable
+  Project-404.vcxproj -> C:\Users\Alex\source\repos\Project-404\x64\Debug\Project-404.exe
